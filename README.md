@@ -11,7 +11,7 @@ project), and that it is connected to a repo on Github.
 
 - [Netlify Redirects](https://docs.netlify.com/routing/redirects/)
 
-Your redirects file should look like this:
+Your redirects file should be placed in the `public` folder. It look like this:
 
 ```txt
 /*    /index.html   200
